@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMvvmMessenger", "TestMvvmMessenger\TestMvvmMessenger.csproj", "{B6FB47F4-926D-489C-86BB-51F48B78535E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FB47F4-926D-489C-86BB-51F48B78535E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB47F4-926D-489C-86BB-51F48B78535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB47F4-926D-489C-86BB-51F48B78535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB47F4-926D-489C-86BB-51F48B78535E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

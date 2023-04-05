@@ -24,7 +24,7 @@ builder.Services
     .AddScoped<AuthenticationStateProvider, RevalidatingIdentityAuthenticationStateProvider<IdentityUser>>();
 builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddHostedService<TestService>();
-builder.Services.AddScoped<TestViewModel>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
